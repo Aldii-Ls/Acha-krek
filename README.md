@@ -1,6 +1,4 @@
 
-<H6>Sscript di enc bertujuan untuk mengamankan sebuah credit di dalam script ini
-
 <H2> VIA TERMUX </H2>
 
 ```bash
